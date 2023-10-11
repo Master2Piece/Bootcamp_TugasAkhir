@@ -24,7 +24,7 @@
 
 # Online Food Order Management System
 
-A web-based food ordering system built on Laravel with MySQL database and CRUD operations.
+A web-based food ordering system built on Laravel with MySQL database (AWS RDS)  and CRUD operations.
 
 ## User Module
 ### Home
